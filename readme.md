@@ -1,6 +1,6 @@
-# Assignment - 13
+# SAAS-Landing-Page
 
-## Project 13 [Live Link](https://full-stack-js-projects-13.netlify.app/)
+## Project 13 [Live Link](https://saas-landing-pages-13.netlify.app/)
 
 - ### skills used in project
   - Learn CSS Grid, media query, flexbox etc.
